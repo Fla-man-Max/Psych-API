@@ -1,0 +1,8 @@
+{
+  "title": "Psych Lua API Test",
+  "description": "Small gameplay smoke test for the Psych Lua bridge in official FNF.",
+  "contributors": [{"name": "Psych Lua API port test"}],
+  "api_version": "0.8.7",
+  "mod_version": "1.0.0",
+  "license": "Apache-2.0"
+}
